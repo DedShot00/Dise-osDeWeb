@@ -21,3 +21,6 @@ nav a:link, nav a:visited {
 nav a:hover {
 background-color:yellow;
 }
+.mainImage {
+	width: 100%;
+}

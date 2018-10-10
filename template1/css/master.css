@@ -1,3 +1,23 @@
 header nav{
-	background-color: blue;
+	background-color: #50d229;
+}
+
+nav ul {
+	list-style-type:none;
+	padding:0;
+}
+nav li, nav a {
+	display:inline;
+	float:left;
+}
+nav a:link, nav a:visited {
+	background-color:green;
+	color:lightblue;
+	display:block;
+	width:160px;
+	text-align:center;
+	padding: 10px 0;
+}
+nav a:hover {
+background-color:yellow;
 }

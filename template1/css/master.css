@@ -3,19 +3,13 @@ body {
 	margin: 0;
 	background-color: lightgrey;
 }
-nav ul {
-	list-style-type:none;
-	padding:0;
-}
-nav li, nav a, section div {
-	display:inline;
-	float:left;
-}
+
 .mainImage {
 	width: 100%;
 }
 
 .tarjeta {
+	float:left;
 	padding: 30px;
 }
 .sugerencias{

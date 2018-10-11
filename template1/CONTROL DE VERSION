@@ -19,4 +19,4 @@ Cambios: Creación del footer con algunos estilos, creación de este archivo
 Versión: .20
 Fecha: 10/10/2018
 Programador: Santiago y Pepe
-Cambios: Creación del archivo ubicación. Modificación del header con los svg. Se añadieron más imagenes
+Cambios: Creación del archivo ubicación junto con el mapa de Google y los estilos. Modificación del header con los svg. Se añadieron más imagenes y se eliminaron los estilos del footer que arruinaban la página, se empezó a rtabajr sólo con clases.

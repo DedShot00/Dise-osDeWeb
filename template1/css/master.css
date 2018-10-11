@@ -19,7 +19,7 @@ nav li, nav a, section div {
 nav a:link, nav a:visited {
 	background-color:green;
 	color:lightblue;
-	display:block;
+	display:inline;
 	width:160px;
 	text-align:center;
 	padding: 10px 0;

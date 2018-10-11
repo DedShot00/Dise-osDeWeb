@@ -48,6 +48,10 @@ footer{
 	margin:40px 0;
 	display:inline;
 	top:1000px;
+	background-color: darkslategray
+}
+footer li, ul{
+	background-color: darkslategray
 }
 footer nav a:hover{
 	color:black;

@@ -33,3 +33,22 @@ background-color:yellow;
 .tarjeta {
 	padding: 30px;
 }
+.sugerencias{
+	position:fixed;
+	right:20px;
+	top:600px;
+	background-color:orange;
+	color:white;
+	display:block;
+	width:160px;
+	text-align:center;
+	padding:10px 0;
+}
+footer{
+	margin:40px 0;
+	display:inline;
+	top:1000px;
+}
+footer nav a:hover{
+	color:black;
+}

@@ -48,9 +48,19 @@ background-color:yellow;
 footer{
 	margin:40px 0;
 	display:inline;
+<<<<<<< HEAD
+=======
+	top:1000px;
+>>>>>>> 6c20734ac83ec75f11cff6db7758f36e2d8cc5c3
 	background-color: darkslategray;
 }
 footer li, ul{
 	background-color: darkslategray;
+<<<<<<< HEAD
 	color: white;
+=======
+}
+footer nav a:hover{
+	color:black;
+>>>>>>> 6c20734ac83ec75f11cff6db7758f36e2d8cc5c3
 }

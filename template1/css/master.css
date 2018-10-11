@@ -3,11 +3,6 @@ body {
 	margin: 0;
 	background-color: lightgrey;
 }
-
-header nav{
-	background-color: #50d229;
-}
-
 nav ul {
 	list-style-type:none;
 	padding:0;
@@ -16,7 +11,6 @@ nav li, nav a, section div {
 	display:inline;
 	float:left;
 }
-
 .mainImage {
 	width: 100%;
 }
@@ -34,17 +28,4 @@ nav li, nav a, section div {
 	width:160px;
 	text-align:center;
 	padding:10px 0;
-}
-footer{
-	margin:40px 0;
-	display:inline;
-	top:1000px;
-	background-color: darkslategray;
-}
-footer li, ul{
-	background-color: darkslategray;
-	color: white;
-}
-footer nav a:hover{
-	color:black;
 }

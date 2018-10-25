@@ -30,3 +30,9 @@ Versión .25
 Fecha: 24/10/2018
 Programador: Santiago
 Cambios: Se mejoró el footer y se le cambió el estilo al body a flex-wrap. Que es lo contrario a display block, debe tomarse en cuenta para futuros diseños.
+--------------------------
+
+Versión .30
+Fecha: 24/10/2018
+Programador: Pepe
+Cambios: se modificó footer arreglando problema de vista con las listas, se creo archivo footer.css para ser integrado a todas las paginas que cuenten con footer

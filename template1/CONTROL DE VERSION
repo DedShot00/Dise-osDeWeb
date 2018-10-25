@@ -1,22 +1,32 @@
 VERSION CONTROL
 
 --------------------------
+
 Versión: .01
 Fecha:09/10/2018
 Programador: Pepe
 Cambios: Se hizo el achivo
 --------------------------
+
 Versión: .10
 Fecha:09/10/2018
 Programador: Santiago y Pepe
 Cambios: Se hizo la estructura principal y la hoja de estilos. Se incluyó el menú y algunas imagenes
 --------------------------
+
 Versión: .15
 Fecha: 10/10/2018
 Programador: Santiago
 Cambios: Creación del footer con algunos estilos, creación de este archivo
 --------------------------
+
 Versión: .20
 Fecha: 10/10/2018
 Programador: Santiago y Pepe
 Cambios: Creación del archivo ubicación junto con el mapa de Google y los estilos. Modificación del header con los svg. Se añadieron más imagenes y se eliminaron los estilos del footer que arruinaban la página, se empezó a rtabajar sólo con clases.
+--------------------------
+
+Versión .25
+Fecha: 24/10/2018
+Programador: Santiago
+Cambios: Se mejoró el footer y se le cambió el estilo al body a flex-wrap. Que es lo contrario a display block, debe tomarse en cuenta para futuros diseños.

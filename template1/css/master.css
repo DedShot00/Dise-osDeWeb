@@ -2,6 +2,8 @@ body {
 	padding: 0;
 	margin: 0;
 	background-color: lightgrey;
+	min-height: 100vh;
+	flex-wrap: wrap;
 }
 
 .mainImage {
@@ -11,4 +13,12 @@ body {
 .tarjeta {
 	float:left;
 	padding: 30px;
+}
+
+footer{
+	align-self: flex-end;
+	background-color: rgba(120, 120, 120, 0.5);
+	line-height: 3;
+	text-align: center;
+	width: 100%;
 }

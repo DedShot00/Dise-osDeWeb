@@ -21,5 +21,8 @@ footer{
 	line-height: 5;
 	width: 100%;
 	text-align: center;
-	float: left
+	float: left;
+}
+iframe{
+	float: none;
 }

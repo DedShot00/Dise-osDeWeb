@@ -12,7 +12,8 @@ body {
 
 .tarjeta {
 	float:left;
-	padding: 30px;
+	padding: 45px;
+	padding-top: 10px;
 }
 
 iframe{
@@ -27,7 +28,7 @@ iframe{
 }
 
 .imgTarjeta {
-	width: 350px;
+	width: 105%;
 }
 
 .tarjeta {

@@ -37,7 +37,11 @@ a {
 
 .logo {
   height: 70px;
-  margin-right: 10%;
+  transform: translate(-50%, 0);
+}
+
+.imgLogo {
+  height: 70px;
 }
 
 .nav-item {

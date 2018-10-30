@@ -18,3 +18,9 @@ body {
 iframe{
 	border:0;
 }
+
+.pUbi{
+	float: right;
+	font-family: cursive;
+	font-size: 20pt;
+}

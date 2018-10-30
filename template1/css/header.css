@@ -44,6 +44,9 @@ a {
 
 .logoFooter{
 	padding: 20px;
+	position: absolute;
+    left: 90%;
+    transform: translate(-50%, 0);
 }
 
 .imgLogo {
@@ -76,6 +79,6 @@ a {
 
 .copyright{
 	position: absolute;
-    left: 79%;
+    left: 70%;
 	display: inline;
 }

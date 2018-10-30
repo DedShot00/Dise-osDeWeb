@@ -24,3 +24,12 @@ iframe{
 	font-family: cursive;
 	font-size: 20pt;
 }
+
+.imgTarjeta {
+	width: 350px;
+}
+
+.tarjeta {
+	width: 25%;
+	display: inline-block;
+}

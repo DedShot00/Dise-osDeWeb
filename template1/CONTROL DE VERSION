@@ -53,5 +53,5 @@ Cambios: Cambio al index de todos los diseños, se actualizaron los css para que
 Versión .40
 Fecha: 29/10/2018
 Programador: Pepe y Santiago
-Cambios: Se le incluyeron logos y copyright a los footer. Se cambio el color de la página en general. Se incluyeron imágenes en la página principal. Se hizo un poco más responsiva. Se modificó la página ubicación. El logo del header queda perfectamente al centro.
+Cambios: Se le incluyeron logos y copyright a los footer. Se cambio el color de la página en general. Se incluyeron imágenes en la página principal. Se hizo un poco más responsiva. Se modificó la página ubicación. El logo del header queda perfectamente al centro. El body se hizo de un 100% y de igual manera muchas imagenes se pasaron al % y position:fixed; para que fuera más responsiva la página.
 ----------------------------

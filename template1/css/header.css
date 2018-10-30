@@ -42,6 +42,10 @@ a {
   transform: translate(-50%, 0);
 }
 
+.logoFooter{
+	padding: 20px;
+}
+
 .imgLogo {
   height: 70px;
 }
@@ -71,5 +75,7 @@ a {
 }
 
 .copyright{
-
+	position: absolute;
+    left: 79%;
+	display: inline;
 }

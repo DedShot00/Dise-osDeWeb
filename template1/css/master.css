@@ -21,10 +21,15 @@ iframe{
 }
 
 .pUbi{
+	color: lightgrey;
 	float: right;
 	font-family: cursive;
 	font-size: 20pt;
 	text-align: center;
+	padding:10px;
+	margin:20px;
+	height:250px;
+	width:850px;
 }
 
 .imgTarjeta {

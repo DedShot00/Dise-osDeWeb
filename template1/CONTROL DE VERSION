@@ -35,4 +35,17 @@ Cambios: Se mejoró el footer y se le cambió el estilo al body a flex-wrap. Que
 Versión .30
 Fecha: 24/10/2018
 Programador: Pepe
-Cambios: se modificó footer arreglando problema de vista con las listas, se creo archivo footer.css para ser integrado a todas las paginas que cuenten con footer
+Cambios: Se modificó footer arreglando problema de vista con las listas, se creo archivo footer.css para ser integrado a todas las paginas que cuenten con footer
+--------------------------
+
+Versión .31
+Fecha: 29/10/2018
+Programador: Pepe
+Cambios: Cambio del logotipo
+----------------------------
+
+Versión .35
+Fecha: 29/10/2018
+Programador: Pepe y Santiago
+Cambios: Cambio al index de todos los diseños, se actualizaron los css para que estuviera correcto en todas las paginas.
+----------------------------

@@ -37,6 +37,7 @@ iframe{
 
 #ubi{
 	font-family: serif;
-	background-color: lightgreen;
+	background-color: #7cc692;
 	margin: 10px;
+	display: inline;
 }

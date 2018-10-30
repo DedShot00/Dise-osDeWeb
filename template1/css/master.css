@@ -25,3 +25,12 @@ iframe{
 	font-size: 20pt;
 	text-align: center;
 }
+
+.imgTarjeta {
+	width: 350px;
+}
+
+.tarjeta {
+	width: 25%;
+	display: inline-block;
+}

@@ -55,3 +55,9 @@ Fecha: 29/10/2018
 Programador: Pepe y Santiago
 Cambios: Se le incluyeron logos y copyright a los footer. Se cambio el color de la página en general. Se incluyeron imágenes en la página principal. Se hizo un poco más responsiva. Se modificó la página ubicación. El logo del header queda perfectamente al centro. El body se hizo de un 100% y de igual manera muchas imagenes se pasaron al % y position:fixed; para que fuera más responsiva la página.
 ----------------------------
+
+Versión .45
+Fecha: 30/10/2018
+Programador:Santiago
+Cambios: Se inició el desarrollo de las descripciones de cada articulo en el menú con todo y estilos. Se hizo el arreglo todo hechizo para la imagen4. Se creó la clase descrTarjeta que sólo afecta los parrafos de tarjeta
+----------------------------

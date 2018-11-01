@@ -61,3 +61,9 @@ Fecha: 30/10/2018
 Programador:Santiago
 Cambios: Se inició el desarrollo de las descripciones de cada articulo en el menú con todo y estilos. Se hizo el arreglo todo hechizo para la imagen4. Se creó la clase descrTarjeta que sólo afecta los parrafos de tarjeta
 ----------------------------
+
+Versión .48
+Fecha: 31/10/2018
+Programador:Santiago
+Cambios: Se incluyó metadata para celulares, se intentó poner un favicon sin exito y se comentaron los códigos largos para un mejor entendimiento del documento en general.
+----------------------------

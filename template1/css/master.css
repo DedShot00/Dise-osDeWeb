@@ -47,7 +47,7 @@ iframe{
 
 .descrTarjeta{
 	color: white;
-	font-size: 135%;
+	font-size: 140%;
 	font-family: monospace;
 	text-align: center;
 	padding-bottom:30px;
@@ -55,7 +55,11 @@ iframe{
 
 .descrTarjeta b{
 	font-family: monospace;
+<<<<<<< HEAD
 	font-size: 130%;
+=======
+	font-size: 150%;
+>>>>>>> e314baa33633600192f9067fa5e1277350b8e9fb
 }
 
 #ubi{

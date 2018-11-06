@@ -6,8 +6,17 @@ body {
 
 .mainImage {
 	width: 100%;
+	padding-bottom: 70px;
 }
 
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+ .platillos {
+	 margin: 0 auto;
+   width: 95%;
+ }
 
 iframe{
 	border:0;
@@ -26,14 +35,14 @@ iframe{
 
 }
 .tarjeta {
-	float:left;
-	padding: 2%;
-	width: 25%;
-	display: inline-block;
+	width: 30%;
+	margin: auto;
+
 }
 
 .imgTarjeta {
-	width: 105%;
+	width: 100%;
+	border-radius: 8px;
 }
 
 .descrTarjeta{
@@ -41,13 +50,12 @@ iframe{
 	font-size: 135%;
 	font-family: monospace;
 	text-align: center;
-	padding-bottom: 10%;
-	padding-top: 0;
+	padding-bottom:30px;
 }
 
 .descrTarjeta b{
 	font-family: monospace;
-	font-size: 175%;
+	font-size: 130%;
 }
 
 #ubi{
